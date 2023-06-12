@@ -1,0 +1,64 @@
+# Configurazione del sito, volendo questo è una sorta di header
+baseURL: 'https://pioapocalypse.github.io/' # URL di base
+languageCode: 'it' # lingua
+title: 'PioApocalypse - WebCV' # titolo
+themeDir: 'themes'
+theme: 'hugo-PaperMod'
+
+module:
+  hugoVersion:
+    extended: true
+    min: '0.92.0'
+
+# PARAMETRI
+params:
+  defaultTheme: dark
+
+  # colors: {}
+  # logo: {}
+  # homepage_meta_tags: {}
+  # profileMode: {}
+
+permalinks:
+  post: '/:year/:month/:day/:slug/'
+  pages: '/:filename/'
+
+security:
+  exec:
+    allow:
+      - ^asciidoctor$
+      - ^rst2html*
+
+markup: # vedi documentazione Goldmark
+  goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+    # extensions:
+    #   definitionList: true
+    #   footnote: true
+    #   linkify: true
+    #   linkifyProtocol: https
+    #   strikethrough: true
+    #   table: true
+    #   taskList: true
+    #   typographer:
+    #     apostrophe: '&rsquo;'
+    #     disable: false
+    #     ellipsis: '&hellip;'
+    #     emDash: '&mdash;'
+    #     enDash: '&ndash;'
+    #     leftAngleQuote: '&laquo;'
+    #     leftDoubleQuote: '&ldquo;'
+    #     leftSingleQuote: '&lsquo;'
+    #     rightAngleQuote: '&raquo;'
+    #     rightDoubleQuote: '&rdquo;'
+    #     rightSingleQuote: '&rsquo;'
+    # parser:
+    #   autoHeadingID: true
+    #   autoHeadingIDType: github
+    #   wrapStandAloneImageWithinParagraph: true
+    #   attribute:
+    #     block: false
+    #     title: true
