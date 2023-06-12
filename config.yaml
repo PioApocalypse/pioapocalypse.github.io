@@ -13,6 +13,23 @@ module:
 # PARAMETRI
 params:
   defaultTheme: dark
+  profileMode:
+        enabled: true
+        title: "PioApocalypse" # optional default will be site title
+        subtitle: "Personal WebCV"
+        imageUrl: "images/logo.svg" # optional
+        imageTitle: "logo" # optional
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+        buttons:
+          - name: Come Ing. Meccanico
+            url: "cv/ingegnere"
+          - name: Come Informatico
+            url: "cv/informatico"
+          - name: CV Comune
+            url: "cv/comune"
+          - name: Triennalia
+            url: "https://github.com/PioApocalypse/Triennalia"
 
   # colors: {}
   # logo: {}
