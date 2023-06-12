@@ -20,9 +20,16 @@
     {{- end }}
     {{- end }}
   </h1>
+  <br>
   {{- if .Description }}
-  <div class="post-description">
-    {{ .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+  {{- end }}
+
+  {{- if .Content }}
+  <div>
+    {{ .Content }}
   </div>
   {{- end }}
 </header>

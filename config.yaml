@@ -1,7 +1,7 @@
 # Configurazione del sito, volendo questo è una sorta di header
 baseURL: 'https://pioapocalypse.github.io/' # URL di base
 languageCode: 'it' # lingua
-title: 'PioApocalypse - WebCV' # titolo
+title: 'PioApocalypse' # titolo
 themeDir: 'themes'
 theme: 'hugo-PaperMod'
 
@@ -30,6 +30,12 @@ params:
             url: "cv/comune"
           - name: Triennalia
             url: "https://github.com/PioApocalypse/Triennalia"
+
+   # socialIcons: # come diceva un tale che mi sta sulle palle: "You have to STADY!" - quindi appena ho tempo me li studio
+   #      - name: "<platform>"
+   #          url: "<link>"
+   #      - name: "<platform 2>"
+   #          url: "<link2>"
 
   # colors: {}
   # logo: {}
