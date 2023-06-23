@@ -12,4 +12,7 @@ Studente di Ingegneria Meccanica presso l'Università degli Studi di Salerno con
 
 Ho inoltre lavorato come sistemista informatico, mettendo in pratica le mie conoscenze sui S.O. Linux e su una certa quantità di software FOSS, nonché le mie capacità di problem solving verso i malfunzionamenti delle macchine di ufficio (computer personali, server, hypervisor, VM).
 
-Di seguito, i miei curricula vitae divisi nei due campi principali di mia competenza, più un CV comune con informazioni generali e/o riassuntive.
+### Istruzione
+
+#### Corso di Laurea Triennale in Ingegneria Meccanica
+**2017 - in corso** -- CFU conseguiti:
