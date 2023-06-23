@@ -1,5 +1,28 @@
 ---
 title: "CV come Informatico"
-date: 2023-06-12T12:00:00+02:00
+date: 2023-06-23T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
 ---
+
+== Esperienze lavorative
+=== Manutentore di rete per conto di Soabit s.r.l. presso ICRANet Pescara (09/01/2023 - 30/06/2023).
+* In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
+* Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
+* Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
+* Tra le competenze acquisite le più importanti sono state:
+** Ottima conoscenza di base di *Linux*;
+** Capacità di utilizzo degli strumenti di gestione remota di sistemi di calcolo, in particolare il *protocollo SSH* usato su base giornaliera per lavorare contemporaneamente con più macchine Linux (webserver, mail-gw etc.);
+** Capacità di gestione a livello amministratore di uno spazio *Google Workspace* con oltre un centinaio di utenti;
+** Capacità di gestione di un sito web su CMS *Joomla* (molto outdated); ottima competenza in HTML e CSS;
+** Efficienza nella manutenzione ordinaria e straordinaria dei PC da ufficio del personale (sia hardware sia software);
+** Soft skill: problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
+
+== Competenze chiave
+
+=== Hard skill
+* #Sistemi operativi#
+** Utente avanzato di S.O. *Windows* da XP a 10 e di varie *distribuzioni Linux*, tra le quali figurano _Ubuntu_, _Linux Mint_, _Centos 7_, _MX Fluxbox_ e altre.
+** Dimestichezza con interfacce a riga di comando (CLI), in particolare *Bash*.
+** Dimestichezza con *systemd*; esperienze minori con altri init daemon.
+
+=== Soft skill
