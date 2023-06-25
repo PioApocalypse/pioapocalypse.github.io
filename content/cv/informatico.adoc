@@ -5,7 +5,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 ---
 
 == Esperienze lavorative
-=== Manutentore di rete per conto di Soabit s.r.l. presso ICRANet Pescara (09/01/2023 - 30/06/2023).
+=== _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
 * In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
 * Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
 * Altro elemento chiave del lavoro era fornire assistenza al personale interno o esterno a ICRANet, tra cui i membri della faculty, segreteria, amministrazione e ospiti.
@@ -17,12 +17,24 @@ createdDate: 2023-06-12T12:00:00+02:00
 ** Efficienza nella manutenzione ordinaria e straordinaria dei PC da ufficio del personale (sia hardware sia software);
 ** Soft skill: problem solving, pazienza nel gestire e spiegare situazioni con persone poco competenti in informatica.
 
-== Competenze chiave
+== Progetti individuali
+=== Realizzazione del sito personale che state visitando con Hugo (giugno 2023 - in corso)
+* Il sito Github Pages pioapocalypse.github.io sul quale vi trovate adesso è un progetto che ha il duplice scopo di servire come _playground_ per migliorare le mie competenze con Hugo, HTML/CSS, Asciidoctor e altro, oltre che fungere da "web-CV" - ossia da sito web contenente in HTML i miei curriculum vitae.
+* Il sito è sviluppato a partire dal tema PaperMod per Hugo e mantenuto nel tempo libero.
 
-=== Hard skill
-* #Sistemi operativi#
-** Utente avanzato di S.O. *Windows* da XP a 10 e di varie *distribuzioni Linux*, tra le quali figurano _Ubuntu_, _Linux Mint_, _Centos 7_, _MX Fluxbox_ e altre.
+=== Realizzazione prototipo nuovo sito per l'organizzazione ICRANet con Hugo (maggio 2023 - in corso)
+* Dopo aver attentamente analizzato il sito web dell'organizzazione https://www.icranet.org[icranet.org, window=_blank], su richiesta dei docenti della faculty ho lavorato a un prototipo per un nuovo sito statico con Hugo basato sul tema Hero. Il sito doveva presentare i seguenti vantaggi principali rispetto al precedente: design responsivo; minor tempo di caricamento; estensibilità della possibilità di aggiornare il sito al personale con scarse o nulle conoscenze di web-design.
+* Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet; attualmente il progetto è _sospeso_, non cancellato.
+
+== Istruzione
+=== Attestati e certificazioni
+* _Vuoto_
+
+== Hard skill
+* *Manutenzione di rete*
+* *Sistemi operativi*
+** Utente avanzato di S.O. *Windows* da XP a 10 e di varie *distribuzioni Linux*, tra le quali figurano _Ubuntu_, _Linux Mint_, _Centos 7_ e _MX Fluxbox_.
 ** Dimestichezza con interfacce a riga di comando (CLI), in particolare *Bash*.
 ** Dimestichezza con *systemd*; esperienze minori con altri init daemon.
-
-=== Soft skill
+* *Software*
+* *Web development*
