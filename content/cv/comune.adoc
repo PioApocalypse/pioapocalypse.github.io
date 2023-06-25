@@ -3,3 +3,75 @@ title: "CV comune"
 date: 2023-06-12T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
 ---
+
+== Esperienze lavorative
+  * link:/cv/informatico/#icranet[*Manutentore di rete* presso ICRANet Pescara, title=Dettagli] per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+
+== Progetti personali
+  * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - in corso).
+  * Realizzazione prototipo nuovo sito per l'org. ICRANet con Hugo (maggio 2023 - in corso, sospeso).
+  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine.
+
+== Istruzione
+  * (Iscritto al Corso di) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 150/180 (83.3%).
+  * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100.
+
+=== Corsi di formazione (attestati)
+  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983".
+  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+
+=== Certificazioni
+==== Lingua inglese
+  * "*Certificazione _Cambridge English First_, Level B2*" (luglio 2016) - cert. num. 0053909676.
+    ** Esame di verifica conseguito in data 22/07/2016 e superato con voto finale di *174 - Grade B*.
+
+== Capacità principali
+=== Hard skill
+  * #Disegno tecnico industriale#
+    ** Disegno tecnico: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola e quotatura, capacità di utilizzo degli strumenti di misura.
+    ** Software: buone capacità con *AutoCAD*, *nanoCAD*, *Catia V5*, *Solidworks 2020*; conoscenze di base di *FreeCAD* e *Ansys*.
+      *** So realizzare parti e assiemi di modelli 3D, so fare analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
+
+  * #Progettazione meccanica#
+    ** CNC: conoscenza di base del linguaggio G-code, uso del software CIMCO Edit.
+
+  * #link:/cv/informatico/#hardskill[Informatica]#
+
+  * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
+
+
+=== Soft skill
+[cols=3]
+|===
+|Precisione:
+|
+|★★★★★
+
+|Problem solving:
+|
+|★★★★★
+
+|Pazienza:
+|
+|★★★★☆
+
+|Pianificazione:
+|
+|★★★★☆
+
+|Rapporti interpersonali:
+|
+|★★★★☆
+
+|Lavoro di squadra:
+|
+|★★★★☆
+
+|Saper ascoltare:
+|
+|★★★☆☆
+
+|Autonomia:
+|
+|★★☆☆☆
+|===

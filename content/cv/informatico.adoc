@@ -5,6 +5,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 ---
 
 == Esperienze lavorative
+[#icranet]
 === _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
 * In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.
 * Tale infrastruttura comprendeva macchine fisiche e virtuali, PC, server e workstation, siti web e contenuti online (YouTube, Indico), stampanti, archivi audio video e l'intero sistema dell'infrastruttura LAN (comprendente cavi, switch etc.).
@@ -30,6 +31,7 @@ createdDate: 2023-06-12T12:00:00+02:00
 === Attestati e certificazioni
 * _Vuoto_
 
+[#hardskill]
 == Hard skill
 * *Manutenzione di rete*
 * *Sistemi operativi*
