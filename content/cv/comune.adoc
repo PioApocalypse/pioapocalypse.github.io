@@ -3,9 +3,16 @@ title: "CV comune"
 date: 2023-06-12T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
 ---
+// Aggiungere bio + contatti
+++++
+<div align="left" style="margin-left: 20px;">
+  <img width="141" height="200" src="/damico.jpg">
+</div>
+++++
 
 == Esperienze lavorative
-  * link:/cv/informatico/#icranet[*Manutentore di rete* presso ICRANet Pescara, title=Dettagli] per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+  * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+  * link:/cv/informatica/#iasait[*Webmaster*, title=Dettagli] dell'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (2016 - 2021).
 
 == Progetti personali
   * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - in corso).
@@ -28,17 +35,32 @@ createdDate: 2023-06-12T12:00:00+02:00
 == Capacità principali
 === Hard skill
   * #Disegno tecnico industriale#
-    ** Disegno tecnico: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola e quotatura, capacità di utilizzo degli strumenti di misura.
-    ** Software: buone capacità con *AutoCAD*, *nanoCAD*, *Catia V5*, *Solidworks 2020*; conoscenze di base di *FreeCAD* e *Ansys*.
+    ** *Disegno tecnico*: capacità di lettura dei disegni, conoscenza delle normative ISO riguardanti messa in tavola e quotatura, capacità di utilizzo degli strumenti di misura.
+    ** *Software*: buone capacità con *AutoCAD*, *nanoCAD*, *Catia V5*, *Solidworks 2020*; conoscenze di base di *FreeCAD* e *Ansys*.
       *** So realizzare parti e assiemi di modelli 3D, so fare analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
 
-  * #Progettazione meccanica#
-    ** CNC: conoscenza di base del linguaggio G-code, uso del software CIMCO Edit.
-
   * #link:/cv/informatico/#hardskill[Informatica]#
+    ** *Sistemi operativi*: utente avanzato di S.O. Windows e di varie distribuzioni Linux; dimestichezza con interfacce a riga di comando (CLI), in particolare Bash; dimestichezza con systemd ed esperienze minori con altri init daemon.
+    ** *Database*: conoscenza di base dell'algebra relazionale; conoscenza del linguaggio SQL.
+    ** *Linguaggi di programmazione*: esperienze di programmazione con MATLAB, Python 3, LabVIEW e Bash; conoscenza di base di GNU Octave, C e Javascript.
+    ** *Web development*: buona conoscenza di HTML5, CSS3 e SCSS per front-end web development; conoscenza di base del CMS Hugo; esperienza con il CMS Wordpress.
 
+// Devo veramente fare sparire questa sezione e portarla su una pagina a parte...
   * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
+    ** *Matematica*: conoscenza delle funzioni elementari, dei num. complessi, di analisi/studio della funzione - il che include derivate, limiti e integrali definiti o indefiniti; conoscenza di analisi su più variabili indipendenti, eq. differenziali fino al secondo ordine, integrali doppi e tripli, derivate parziali; conoscenza di vettori e matrici, rango/immagine/kernel/determinante etc., operazioni elementari.
+    ** *Fisica e meccanica razionale*: conoscenze di fisica generale, meccanica del punto materiale, di distribuzioni discrete di punti e del corpo rigido; conoscenza del moto rotativo e delle grandezze studiate in tale ambito (mom. d'inerzia, coppia, mom. angolare etc.); forze d'attrito; elettromagnetismo.
+    ** *Termodinamica*: conoscenza dei principi fondamentali della termodinamica e della loro applicazione ai casi pratici di interesse ingegneristico.
 
+  * #Progettazione meccanica#
+    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software CIMCO Edit.
+    ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
+    ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
+    ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
+
+  * #Software da ufficio e documentale#
+    ** Competenza con i programmi dei *pacchetti MS Office*, *LibreOffice* e *Google Docs Editor*.
+    ** *Stesura documentazione*: "parlo" bene LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
+    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex. Sony Vegas).
 
 === Soft skill
 [cols=3]
