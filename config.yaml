@@ -31,6 +31,7 @@ params:
           - name: Triennalia
             url: "https://github.com/PioApocalypse/Triennalia"
 
+  dateFormat: ":date_medium"
    # socialIcons: # come diceva un tale che mi sta sulle palle: "You have to STADY!" - quindi appena ho tempo me li studio
    #      - name: "<platform>"
    #          url: "<link>"
