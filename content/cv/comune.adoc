@@ -4,10 +4,18 @@ date: 2023-06-29T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune/"
 ---
-// Aggiungere bio + contatti
+// Aggiungere contatti
+// PER DIO: devo assolutamente trovare un modo per fare sparire questo codice. Magari creo un partial, lo infilo nel layout della pagina (single mi pare) e dentro il partial incollo la .Propic a sx e il .Content a dx di una pagina markdown (è sufficiente)
+// Infine: rendere i due div responsive: https://www.w3schools.com/html/html_responsive.asp
 ++++
-<div align="left" style="margin-left: 20px;">
-  <img width="141" height="200" src="/damico.jpg">
+<div align="left" style="float:left;">
+  <div align="left" style="float:left; width:25%">
+    <img src="/damico.jpg">
+  </div>
+  <div align="left" style="float:left; width:70%; margin-left: 20px">
+    <p>Studente di Ingegneria presso l'Università degli Studi di Salerno, appassionato di termodinamica e sistemi energetici, interessato anche alla meccanica "fredda" (progettazione, disegno, gestione).<br>Informatico, con esperienze di lavoro come webmaster e sistemista, appassionato di SO Linux e software FOSS, di modellazione/disegno/rendering 2D e 3D, e di videogiochi.</p>
+    <p>Cerco esperienze di lavoro nei settori energetico, metalmeccanico e informatico, e sono motivato ad ampliare il mio set di conoscenze tecniche, tecnologiche, amministrative e sociali in questi ambiti.</p>
+  </div>
 </div>
 ++++
 
@@ -60,7 +68,7 @@ url: "/cv/comune/"
 
   * #Software da ufficio e documentale#
     ** Competenza con i programmi dei *pacchetti MS Office*, *LibreOffice* e *Google Docs Editor*.
-    ** *Stesura documentazione*: "parlo" bene LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
+    ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
     ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex. Sony Vegas).
 
 === Soft skill
