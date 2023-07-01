@@ -3,21 +3,11 @@ title: "CV comune"
 date: 2023-06-29T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune/"
+layout: cv_comune
 ---
 // Aggiungere contatti
 // PER DIO: devo assolutamente trovare un modo per fare sparire questo codice. Magari creo un partial, lo infilo nel layout della pagina (single mi pare) e dentro il partial incollo la .Propic a sx e il .Content a dx di una pagina markdown (è sufficiente)
 // Infine: rendere i due div responsive: https://www.w3schools.com/html/html_responsive.asp
-++++
-<div align="left" style="float:left;">
-  <div align="left" style="float:left; width:25%">
-    <img src="/damico.jpg">
-  </div>
-  <div align="left" style="float:left; width:70%; margin-left: 20px">
-    <p>Studente di Ingegneria presso l'Università degli Studi di Salerno, appassionato di termodinamica e sistemi energetici, interessato anche alla meccanica "fredda" (progettazione, disegno, gestione).<br>Informatico, con esperienze di lavoro come webmaster e sistemista, appassionato di SO Linux e software FOSS, di modellazione/disegno/rendering 2D e 3D, e di videogiochi.</p>
-    <p>Cerco esperienze di lavoro nei settori energetico, metalmeccanico e informatico, e sono motivato ad ampliare il mio set di conoscenze tecniche, tecnologiche, amministrative e sociali in questi ambiti.</p>
-  </div>
-</div>
-++++
 
 == Esperienze lavorative
   * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
@@ -31,6 +21,10 @@ url: "/cv/comune/"
 == Istruzione
   * (Iscritto al Corso di) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 150/180 (83.3%).
   * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100.
+
+=== Lingue parlate
+  * Italiano - madrelingua
+  * Inglese - livello Cambridge B2
 
 === Corsi di formazione (attestati)
   * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983".
