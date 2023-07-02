@@ -22,12 +22,12 @@ params:
         imageWidth: 240 # custom size
         imageHeight: 240 # custom size
         buttons:
+          - name: CV Comune
+            url: "cv/comune"
           - name: Come Ing. Meccanico
             url: "cv/ingegnere"
           - name: Come Informatico
             url: "cv/informatico"
-          - name: CV Comune
-            url: "cv/comune"
           - name: Triennalia
             url: "https://github.com/PioApocalypse/Triennalia"
 
