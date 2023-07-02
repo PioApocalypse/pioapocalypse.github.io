@@ -5,13 +5,11 @@ createdDate: 2023-06-12T12:00:00+02:00
 url: "/cv/comune/"
 layout: cv_comune
 ---
-// Aggiungere contatti
-// PER DIO: devo assolutamente trovare un modo per fare sparire questo codice. Magari creo un partial, lo infilo nel layout della pagina (single mi pare) e dentro il partial incollo la .Propic a sx e il .Content a dx di una pagina markdown (è sufficiente)
 // Infine: rendere i due div responsive: https://www.w3schools.com/html/html_responsive.asp
 
 == Esperienze lavorative
   * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
-  * link:/cv/informatica/#iasait[*Webmaster*, title=Dettagli] dell'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (2016 - 2021).
+  * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
 == Progetti personali
   * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - in corso).
