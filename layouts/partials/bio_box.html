@@ -14,12 +14,18 @@
       {{ if and (site.Data.contacts.social.github_name) (site.Data.contacts.social.github) }}
         <p style="margin-bottom:10px;"><img src="/social/github.svg" width="14pt" style="float:left; margin-top:8px;"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.github }}" target="_blank">{{ site.Data.contacts.social.github_name }}</a></span></p>
       {{ end }}
+      {{ if and (site.Data.contacts.social.telegram_name) (site.Data.contacts.social.telegram) }}
+        <p style="margin-bottom:10px;"><img src="/social/telegram.svg" width="14pt" style="float:left; margin-top:8px;"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.telegram }}" target="_blank">{{ site.Data.contacts.social.telegram_name }}</a></span></p>
+      {{ end }}
+      {{ if and (site.Data.contacts.social.linkedin_name) (site.Data.contacts.social.linkedin) }}
+        <p style="margin-bottom:10px;"><img src="/social/linkedin.svg" width="14pt" style="float:left; margin-top:8px;"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.linkedin }}" target="_blank">{{ site.Data.contacts.social.linkedin_name }}</a></span></p>
+      {{ end }}
     </div>
   </div>
   <!-- <div align="left" style="float:left; width:3%;">
     &nbsp;
   </div> -->
-  <div align="justify" class="second_block" style="border: 2px solid grey; border-radius: 5px; padding: 20px;">
+  <div align="justify" class="second_block" style="border: 2px solid grey; border-radius: 5px; padding: 0px 20px;">
     <h2>{{ index site.Data.bio.header }}</h2>
     {{ range site.Data.bio.lines }}
       <p>{{ . }}</p>
