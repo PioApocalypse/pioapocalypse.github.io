@@ -1,0 +1,31 @@
+<style>
+  div {
+      margin: 10px;
+  }
+
+  .first_block {
+      width: 34%;
+      display: inline-block;
+      /* background-color: green; */
+  }
+
+  .second_block {
+      width: 65%;
+      display: inline-block;
+      /* background-color: blue; */
+  }
+
+  /* .third {
+      width: 25%;
+      display: inline-block;
+      background-color: yellow;
+  } */
+
+  @media screen and (max-width: 600px) {
+
+      .first_block,
+      .second_block {
+          width: 100%;
+      }
+  }
+</style>

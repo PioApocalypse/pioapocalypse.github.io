@@ -1,6 +1,6 @@
 <div align="left" style="float:left; margin-bottom:1.2em;">
-  <div align="left" style="float:left; width:33%">
-    <img src="/damico.jpg" alt=propic>
+  <div align="left" class="first_block">
+    <img src="/damico.jpg" alt="propic" style="margin-top:0px; padding:0px 10px;">
     <div style="padding: 2px 10px; text-align:left">
       {{ if site.Data.contacts.home }}
         <p style="margin-bottom:10px;"><img src="/social/home.svg" width="14pt" style="float:left; margin-top:8px"> &nbsp;<span style="font-size:12pt">: {{ site.Data.contacts.home }}</span></p>
@@ -16,10 +16,10 @@
       {{ end }}
     </div>
   </div>
-  <div align="left" style="float:left; width:3%;">
+  <!-- <div align="left" style="float:left; width:3%;">
     &nbsp;
-  </div>
-  <div align="justify" style="float:left; width:64%; border: 2px solid grey; border-radius: 5px; padding: 20px;">
+  </div> -->
+  <div align="justify" class="second_block" style="border: 2px solid grey; border-radius: 5px; padding: 20px;">
     <h2>{{ index site.Data.bio.header }}</h2>
     {{ range site.Data.bio.lines }}
       <p>{{ . }}</p>
