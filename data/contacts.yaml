@@ -1,6 +1,10 @@
+home: 'Baronissi (SA), Campania'
 phone: '+39 333 233 3136'
 mail: 'em.damico@proton.me'
 social:
-  # linkedin: ''
+  # commentare solo uno dei due o il sito non compila
+  linkedin: 'www.linkedin.com/in/pioapocalypse'
+  linkedin_name: "Emanuele D'Amico"
+
   github: 'https://github.com/PioApocalypse'
   github_name: 'PioApocalypse'
