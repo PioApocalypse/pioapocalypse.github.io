@@ -17,7 +17,7 @@ params:
         enabled: true
         title: "PioApocalypse" # optional default will be site title
         subtitle: "Personal WebCV"
-        imageUrl: "images/logo.svg" # optional
+        imageUrl: "images/logo_firma.svg" # optional
         imageTitle: "logo" # optional
         imageWidth: 240 # custom size
         imageHeight: 240 # custom size
