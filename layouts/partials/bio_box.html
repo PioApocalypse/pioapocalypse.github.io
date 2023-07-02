@@ -1,17 +1,26 @@
-<div align="left" style="float:left;">
+<div align="left" style="float:left; margin-bottom:1.2em;">
   <div align="left" style="float:left; width:33%">
     <img src="/damico.jpg" alt=propic>
     <div style="padding: 2px 10px; text-align:left">
-      <img src="/social/email.svg" height="14pt" style="float:left; margin-top:8px"> &nbsp;<span style="font-size:12pt">: {{ site.Data.contacts.mail }}</span><br>
-      <div>
-        <img src="/social/github.svg" height="14pt" style="float:left; margin-top:8px;"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.github }}" target="_blank">{{ site.Data.contacts.social.github_name }}</a></span>
-      </div>
+      {{ if site.Data.contacts.home }}
+        <p style="margin-bottom:10px;"><img src="/social/home.svg" width="14pt" style="float:left; margin-top:8px"> &nbsp;<span style="font-size:12pt">: {{ site.Data.contacts.home }}</span></p>
+      {{ end }}
+      {{ if site.Data.contacts.mail }}
+        <p style="margin-bottom:10px;"><img src="/social/email.svg" width="14pt" style="float:left; margin-top:10px"> &nbsp;<span style="font-size:12pt">: <a href="mailto:{{ site.Data.contacts.mail }}">{{ site.Data.contacts.mail }}</a></span></p>
+      {{ end }}
+      {{ if site.Data.contacts.phone }}
+        <p style="margin-bottom:10px;"><img src="/social/phone.svg" width="14pt" style="float:left; margin-top:8px"> &nbsp;<span style="font-size:12pt">: {{ site.Data.contacts.phone }}</span></p>
+      {{ end }}
+      {{ if and (site.Data.contacts.social.github_name) (site.Data.contacts.social.github) }}
+        <p style="margin-bottom:10px;"><img src="/social/github.svg" width="14pt" style="float:left; margin-top:8px;"> &nbsp;<span style="font-size:12pt">: <a href="{{ site.Data.contacts.social.github }}" target="_blank">{{ site.Data.contacts.social.github_name }}</a></span></p>
+      {{ end }}
     </div>
   </div>
   <div align="left" style="float:left; width:3%;">
     &nbsp;
   </div>
-  <div align="left" style="float:left; width:64%; border: 2px solid grey; border-radius: 5px; padding: 20px;">
+  <div align="justify" style="float:left; width:64%; border: 2px solid grey; border-radius: 5px; padding: 20px;">
+    <h2>{{ index site.Data.bio.header }}</h2>
     {{ range site.Data.bio.lines }}
       <p>{{ . }}</p>
     {{ end }}
