@@ -46,11 +46,10 @@ layout: cv_comune
     ** *Linguaggi di programmazione*: esperienze di programmazione con MATLAB, Python 3, LabVIEW e Bash; conoscenza di base di GNU Octave, C e Javascript.
     ** *Web development*: buona conoscenza di HTML5, CSS3 e SCSS per front-end web development; conoscenza di base del CMS Hugo; esperienza con il CMS Wordpress.
 
-// Devo veramente fare sparire questa sezione e portarla su una pagina a parte...
+// Devo caricare da qualche parte il mio PdS e poi linkarlo qui
   * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
-    ** *Matematica*: conoscenza delle funzioni elementari, dei num. complessi, di analisi/studio della funzione - il che include derivate, limiti e integrali definiti o indefiniti; conoscenza di analisi su più variabili indipendenti, eq. differenziali fino al secondo ordine, integrali doppi e tripli, derivate parziali; conoscenza di vettori e matrici, rango/immagine/kernel/determinante etc., operazioni elementari.
-    ** *Fisica e meccanica razionale*: conoscenze di fisica generale, meccanica del punto materiale, di distribuzioni discrete di punti e del corpo rigido; conoscenza del moto rotativo e delle grandezze studiate in tale ambito (mom. d'inerzia, coppia, mom. angolare etc.); forze d'attrito; elettromagnetismo.
-    ** *Termodinamica*: conoscenza dei principi fondamentali della termodinamica e della loro applicazione ai casi pratici di interesse ingegneristico.
+    ** Conoscenze di ingegneria meccanica, ovvero: matematica I e II, fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
+    ** Per ulteriori dettagli, consultare la pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
   * #Progettazione meccanica#
     ** *CNC*: conoscenza di base del linguaggio G-code, uso del software CIMCO Edit.

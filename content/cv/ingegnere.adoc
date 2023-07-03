@@ -6,6 +6,7 @@ layout: single
 ---
 
 == Istruzione
+[#cdl]
 === Iscritto al _Corso di Laurea Triennale in Ingegneria Meccanica_ presso l'Università degli Studi di Salerno
 * Immatricolato nell'A.A. 2017/2018, attualmente iscritto al 3° anno (3° FC).
 * CFU conseguiti: 150/180 (83.3%).
@@ -19,3 +20,22 @@ layout: single
   ** *Elettrotecnica*: elementi fondamentali di un circuito elettrico, corrente DC e AC, corrente AC monofase, bifase e trifase, leggi di Ohm e Kirchhoff, circuiti equivalenti Thevenin e Norton, rifasamento di un impianto trifase, trasformatori ideali, circuiti in evoluzione dinamica (RC, RL, RLC), accenni di motori elettrici, accenni di elettronica.
   ** *Disegno tecnico*: capacità di lettura dei disegni, normative ISO riguardanti messa in tavola e quotatura, tolleranze geometriche e dimensionali, rugosità e sua influenza sul moto relativo tra componenti in contatto, uso del software _AutoCAD_; fondamenti di grafica computazionale, curve e superfici, modellazione matematica di un oggetto, uso del software _Solidworks_.
   ** *Altro*: organigramma aziendale, bilancio di esercizio, meccanica applicata alle macchine, sistemi di misura per l'industria 4.0, uso del software _LabVIEW_, fondamenti di chimica inorganica, fondamenti di informatica, uso del linguaggio/software _Matlab_, accenni di database, algebra relazionale e linguaggio _MySQL_.
+
+=== Corsi di formazione (attestati)
+* "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (24/06/2021 - 06/08/2021) - cod. prog. Formatemp "094 PROT D211 1983".
+  ** Corso di formazione professionale da 240 ore su CAD 2D e 3D, CNC, prototipazione e stampa 3D.
+  ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli).
+* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+  ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
+  ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
+
+== Progetti personali
+=== Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno 2022 - agosto 2022)
+* Il progetto di gruppo consisteva nella realizzazione di una trasmissione per una pressa a doppio eccentrico della quale erano dati capacità nominale (in ton~f~), numero di colpi al minuto, rpm del motore, regolazione della corsa e corsa massima. L'ingombro e il materiale da utilizzare era a nostra discrezione; il gruppo frizione-freno, il telaio e il circuito dell'olio non erano richiesti.
+* La trasmissione era costituita da tre alberi: motore, veloce e lento. I primi due erano collegati mediante trasmissione a cinghia, poi il veloce e il lento erano collegati via ruote dentate. L'eccentrico sull'albero lento determinava la corsa del pistone ed era regolabile (a macchina spenta) mediante una corona dentata.
+* Il progetto è stato svolto insieme agli ingg. Raffaele Ceruso e Ionut Beato, come requisito di accesso all'esame di Costruzione di Macchine tenuto dal prof. https://docenti.unisa.it/026806/home[Raffaele Sepe, window=_blank]. __Il documento originale potrebbe essere disponibile su questo sito in futuro previa autorizzazione delle parti interessate__.
+
+== Capacità principali
+=== Hard skill
+  * #Conoscenze di ingegneria meccanica#
+    ** Come già descritte nella link:#cdl[sezione dedicata].

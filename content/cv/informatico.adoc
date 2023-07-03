@@ -34,8 +34,10 @@ createdDate: 2023-06-12T12:00:00+02:00
 * Il progetto non è stato portato a termine a causa della scadenza del mio contratto con ICRANet; attualmente il progetto è _sospeso_, non cancellato.
 
 == Istruzione
-=== Attestati e certificazioni
-* _Vuoto_
+=== Corsi di formazione (attestati)
+* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+  ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
+  ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
 
 [#hardskill]
 == Hard skill
