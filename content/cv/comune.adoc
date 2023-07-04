@@ -11,10 +11,14 @@ layout: cv_comune
   * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
   * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
+=== Altre esperienze
+  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (luglio - agosto 2017).
+// Valutare possibilità di aggiungere un curriculum solo per le mie conoscenze della lingua inglese
+
 == Progetti personali
-  * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - in corso).
+  * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - luglio 2023).
   * Realizzazione prototipo nuovo sito per l'org. ICRANet con Hugo (maggio 2023 - in corso, sospeso).
-  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine.
+  * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 == Istruzione
   * (Iscritto al Corso di) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 150/180 (83.3%).
@@ -41,10 +45,11 @@ layout: cv_comune
       *** So realizzare parti e assiemi di modelli 3D, so fare analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
 
   * #link:/cv/informatico/#hardskill[Informatica]#
+    ** *Manutenzione di rete*: conoscenza degli standard RAID, capacità di configurare e gestire routine di backup con Bareos; conoscenze di base di XenServer, Apache HTTPD e Windows Server 2003; conoscenze dei protocolli SSH, VNC, RDP; familiarità con Zabbix per monitoraggio risorse di rete.
     ** *Sistemi operativi*: utente avanzato di S.O. Windows e di varie distribuzioni Linux; dimestichezza con interfacce a riga di comando (CLI), in particolare Bash; dimestichezza con systemd ed esperienze minori con altri init daemon.
     ** *Database*: conoscenza di base dell'algebra relazionale; conoscenza del linguaggio SQL.
-    ** *Linguaggi di programmazione*: esperienze di programmazione con MATLAB, Python 3, LabVIEW e Bash; conoscenza di base di GNU Octave, C e Javascript.
-    ** *Web development*: buona conoscenza di HTML5, CSS3 e SCSS per front-end web development; conoscenza di base del CMS Hugo; esperienza con il CMS Wordpress.
+    ** *Linguaggi di programmazione*: esperienze di programmazione con MATLAB, Python3, LabVIEW e Bash; conoscenza di base di GNU Octave, C e Javascript.
+    ** *Web development*: buona conoscenza di HTML5, CSS3 e SCSS per front-end web development; conoscenza del CMS *Hugo*; esperienze con il CMS *Wordpress* e con una delle prime versioni (2007) del CMS *Joomla!*.
 
 // Devo caricare da qualche parte il mio PdS e poi linkarlo qui
   * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
@@ -52,7 +57,7 @@ layout: cv_comune
     ** Per ulteriori dettagli, consultare la pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
   * #Progettazione meccanica#
-    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software CIMCO Edit.
+    ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
     ** *Tolleranze*: conoscenza delle tolleranze geometriche e dimensionali, conoscenza della rugosità e della sua influenza sul moto relativo tra componenti in contatto.
     ** *Materiali metallici*: conoscenza delle proprietà meccaniche dei mat. metallici, delle lavorazioni e dei trattamenti termici e di rifinitura più comuni.
     ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
@@ -60,7 +65,7 @@ layout: cv_comune
   * #Software da ufficio e documentale#
     ** Competenza con i programmi dei *pacchetti MS Office*, *LibreOffice* e *Google Docs Editor*.
     ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
-    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex. Sony Vegas).
+    ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
 
 === Soft skill
 [cols=3]
