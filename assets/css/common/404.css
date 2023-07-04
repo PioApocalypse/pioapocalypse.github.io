@@ -26,3 +26,8 @@
 a {
   text-decoration: underline;
 }
+
+.not-found p {
+    font-size: 16pt;
+    font-weight: normal;
+}
