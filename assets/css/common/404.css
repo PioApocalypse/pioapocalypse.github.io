@@ -23,16 +23,6 @@
   font-weight: normal;
 }
 
-a {
+.not-found a {
   text-decoration: underline;
-}
-
-.not-found p {
-    font-size: 16pt;
-    font-weight: normal;
-}
-
-.not-found p {
-    font-size: 16pt;
-    font-weight: normal;
 }
