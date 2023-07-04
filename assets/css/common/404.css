@@ -9,3 +9,8 @@
     font-size: 160px;
     font-weight: 700;
 }
+
+.not-found p {
+    font-size: 16pt;
+    font-weight: normal;
+}
