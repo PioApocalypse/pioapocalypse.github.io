@@ -33,6 +33,10 @@ params:
           - name: Che cos'è Triennalia?
             url: "/about/triennalia"
 
+assets:
+  disableHLJS: true
+  favicon: /favicon.ico
+
   dateFormat: ":date_medium"
    # socialIcons: # come diceva un tale che mi sta sulle palle: "You have to STADY!" - quindi appena ho tempo me li studio
    #      - name: "<platform>"
