@@ -1,6 +1,7 @@
 ---
 title: "Che cos'è Triennalia?"
 url: "/about/triennalia"
+date: 2023-07-09T12:00:00+02:00
 ---
 
 Triennalia è una repository contenente appunti digitali di alcune materie del Corso di Laurea Triennale di Ingegneria Meccanica, che ho seguito a partire dal 2017 presso l'Università degli Studi di Salerno. Gli appunti "testuali" sono stati scritti con tool come Word o LibreOffice, e dove possibile direttamente in LaTeX; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium usando il software Xournal++, e i sorgenti (.xopp) richiedono tale programma per potere essere modificati.

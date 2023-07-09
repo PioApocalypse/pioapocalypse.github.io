@@ -20,11 +20,10 @@
     {{- end }}
     {{- end }}
   </h1>
-  <br>
   {{- if .Description }}
-    <div class="post-description">
-      {{ .Description }}
-    </div>
+  <div class="post-description">
+    {{ .Description }}
+  </div>
   {{- end }}
 </header>
 
@@ -32,12 +31,6 @@
 
 {{- if site.Params.ShowAllPagesInArchive }}
 {{- $pages = site.RegularPages }}
-{{- end }}
-
-{{- if .Content }}
-  <div>
-    {{ .Content }}
-  </div>
 {{- end }}
 
 {{- range $pages.GroupByPublishDate "2006" }}
