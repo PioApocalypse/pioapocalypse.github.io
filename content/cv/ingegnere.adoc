@@ -24,8 +24,8 @@ layout: single
 === Corsi di formazione (attestati)
 * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (24/06/2021 - 06/08/2021) - cod. prog. Formatemp "094 PROT D211 1983".
   ** Corso di formazione professionale da 240 ore su CAD 2D e 3D, CNC, prototipazione e stampa 3D.
-  ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli).
-* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+  ** Organizzato da EDESIA s.r.l. / WINTIME s.p.a. (Napoli). link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+* "*Corso di Formazione Generale per i Lavoratori*" (06/07/2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
   ** Corso di formazione generale dalla durata di 4 ore (tenutosi in videoconferenza) incentrato sui concetti di rischio e prevenzione, e sulla sicurezza sul posto di lavoro.
   ** Organizzato da EDESIA s.r.l. in collaborazione con OPN Italia Lavoro e la CNL.
 

@@ -11,7 +11,7 @@ layout: cv_comune
   * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
 === Altre esperienze
-  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (luglio - agosto 2017).
+  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (luglio - agosto 2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
 // Valutare possibilità di aggiungere un curriculum solo per le mie conoscenze della lingua inglese
 
 == Progetti personali
@@ -28,8 +28,8 @@ layout: cv_comune
   * Inglese - livello Cambridge B2
 
 === Corsi di formazione (attestati)
-  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983".
-  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]).
+  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
 
 === Certificazioni
 ==== Lingua inglese
