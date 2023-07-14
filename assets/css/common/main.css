@@ -81,3 +81,12 @@ mark {
 .underline {
   text-decoration: underline;
 }
+
+/* Aggiunto stile testo nascosto (spoiler) */
+.spoiler {
+  color: var(--theme);
+}
+
+.spoiler:hover {
+  color: var(--primary)
+}
