@@ -10,6 +10,9 @@ module:
     extended: true
     min: '0.92.0'
 
+# per togliere dalle palle quella fastidiosa 's' alla fine del titolo in archivio, about [...] e cv
+pluralizeListTitles: false
+
 # PARAMETRI
 params:
   defaultTheme: dark
@@ -32,7 +35,7 @@ params:
             url: "https://github.com/PioApocalypse/Triennalia"
           - name: Che cos'è Triennalia?
             url: "/about/triennalia"
-  mainSections: cv, about
+  mainSections: about
 
 assets:
   disableHLJS: true
