@@ -76,3 +76,8 @@ mark {
   color: var(--primary);
   font-weight: bold;
 }
+
+/* Aggiunto stile testo sottolineato */
+.underline {
+  text-decoration: underline;
+}
