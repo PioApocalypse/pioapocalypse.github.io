@@ -1,4 +1,19 @@
 ---
-title: "Personal greatest achievements"
+title: "I miei più grandi traguardi"
 date: 2023-07-09T12:18:14+02:00
+url: /about/greatest-achievements
+ShowToc: true
 ---
+
+Qui di seguito intendo raccogliere anche solo per soddisfazione personale quelli che considero essere i miei più grandi traguardi nella vita, nel lavoro e nell'istruzione. Non voglio peccare di superbia né di presunzione; piuttosto questo è il mio modo di condividere con il mondo intero le maggiori soddisfazioni che io abbia potuto mai trarre dalle "piccole" belle cose che la vita ha saputo offrirmi.
+
+== Nella vita
+Per quanto possa suonare ridicolo, le due cose migliori che mi siano mai capitate finora non solo prescindono dalla mia carriera universitaria e lavorativa ma mi sono anche capitate subito dopo il momento peggiore della mia vita - iniziato con il lockdown del 2020, peggiorato con un grave lutto in famiglia e proseguito per diversi mesi. Se dovessi scegliere il singolo evento più importante che sia mai capitato nella mia vita, sicuramente sceglierei [.underline]#il giorno in cui mi sono fidanzato per la prima volta#. +
+La storia è un po' personale, molto lunga e anche abbastanza noiosa da ascoltare (o leggere in questo caso), voglio dire solo che tutto il coraggio che mi è sempre mancato nel prendere una scelta o nel dichiararmi a qualcuno fu lì con me quella sera, e non rimpiango minimamente la mia scelta perché quella sera ho trovato la persona con cui ho deciso di passare il resto della mia vita, qualcuno che mi ha sempre supportato e senza la quale non mi sarei mai ripreso dalla depressione.
+
+Un altro evento significativo è stato quando ho finalmente deciso di iniziare un percorso da una psicologa cognitivo-comportamentale per correggere alcuni miei comportamenti che mi portavo dietro dall'infanzia, in particolare un disturbo d'ansia generalizzato e una serie di reazioni "eccessive" che avevo quando ero nervoso o sotto stress. Intraprendere un percorso di psicoterapia individuale è un atto che richiede innanzitutto il coraggio di ammettere che c'è un problema, poi la volontà di risolverlo anche al costo di uscire dalla propria comfort zone, e infine (purtroppo) una certa quantità di denaro considerata la situazione qualitativa attuale delle terapie presso gli psicologi "gratuiti" dell'ASL... +
+Il mio merito in tutto questo è stato riuscire dopo molti mesi [.underline]#a migliorare come persona# e [.underline]#a imparare a gestire situazioni difficili# con calma e raziocinio, per quanto dubito ci sarei mai riuscito se non avessi avuto i miei risparmi e se non fossi riuscito ad allontanarmi fisicamente dalla fonte di tutti i miei problemi (spoiler: [.spoiler]#Salerno e provincia#).
+
+== Sul lavoro
+
+== Nell'istruzione
