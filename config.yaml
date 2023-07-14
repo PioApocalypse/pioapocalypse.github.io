@@ -37,6 +37,18 @@ params:
             url: "/about/triennalia"
   mainSections: about
 
+menu:
+  main:
+    - name: Archivio
+      url: /archives/
+      weight: 1
+    - name: Su di me
+      url: /about/
+      weight: 2
+    - name: Curriculi
+      url: /cv/
+      weight: 3
+
 assets:
   disableHLJS: true
   favicon: /favicon.ico
