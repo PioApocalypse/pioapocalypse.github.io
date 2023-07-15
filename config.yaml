@@ -38,7 +38,7 @@ languages:
               weight: 3
     en:
         contentDir: content/en
-        dataDir: data/en
+        # dataDir: data/en
         languageName: "English"
         weight: 2
         taxonomies:
