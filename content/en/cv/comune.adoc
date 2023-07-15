@@ -12,7 +12,7 @@ language: en
   * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] for A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="IASA Italia Secretary (IT)"] (_no date_, 2016 - 2021).
 
 === Other experiences
-  * Abroad study experience "*Estate INPSieme*" in Greenwich, London, for a period of four weeks (11/07/2017 - 08/07/2017). link:/certifications/Estate_INPSieme_2017.jpg[Certificate of attendance., window=_blank]
+  * Abroad study experience "*Estate INPSieme*" in Greenwich, London, for a period of four weeks (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Certificate of attendance., window=_blank]
 
 == Personal projects
   * Making of the link:/[personal website] you're currently visiting on Hugo (June - July 2023).
