@@ -1,7 +1,10 @@
 header: 'In short'
 lines:
-  - "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  - "Studente di Ingegneria presso l'Università degli Studi di Salerno, appassionato di termodinamica e sistemi energetici, interessato anche alla meccanica ''fredda'' (progettazione, disegno, gestione)."
-  - "Ho inoltre lavorato come informatico, in particolare come webmaster e sistemista, e sono vicino al mondo dei SO Linux e del software FOSS in generale; sono infine appassionato di modellazione/disegno/rendering 2D e 3D e di videogiochi."
-  - "Cerco esperienze di lavoro nei settori energetico, metalmeccanico e informatico, e sono motivato ad ampliare il mio set di conoscenze tecniche, tecnologiche, amministrative e sociali in questi ambiti."
-  - "La mia filosofia di vita: «Meglio saper fare un po' di tutto, che tutto di poco»"
+  - "Mechanical Engineering student at the University of Salerno; thermodynamics and energy systems enthusiast, but also interested in 'cold' mechanics - subjects like structural design and unit management of industrial plants."
+  # - "Studente di Ingegneria presso l'Università degli Studi di Salerno, appassionato di termodinamica e sistemi energetici, interessato anche alla meccanica ''fredda'' (progettazione, disegno, gestione)."
+  - "I've also worked as an IT technician - specifically both as webmaster and as a system manager - and I'm interested in Linux OS's and the FOSS software world/community; lastly, I'm also a huge videogame enthusiast."
+  # - "Ho inoltre lavorato come informatico, in particolare come webmaster e sistemista, e sono vicino al mondo dei SO Linux e del software FOSS in generale; sono infine appassionato di modellazione/disegno/rendering 2D e 3D e di videogiochi."
+  - "I'm currently looking for jobs in the fields of mechanical engineering, energy/power management and IT; I'm motivated to learn and expand my set of technological, administrative and social knowledge."
+  # - "Cerco esperienze di lavoro nei settori energetico, metalmeccanico e informatico, e sono motivato ad ampliare il mio set di conoscenze tecniche, tecnologiche, amministrative e sociali in questi ambiti."
+  - "Here's my philosophy: «I'd rather know the bare minimum about everything than everything about the bare minimum.»"
+  # - "La mia filosofia di vita: «Meglio saper fare un po' di tutto, che tutto di poco»"

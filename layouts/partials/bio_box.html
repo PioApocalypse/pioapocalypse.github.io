@@ -26,9 +26,18 @@
     &nbsp;
   </div> -->
   <div align="justify" class="second_block" style="border: 2px solid grey; border-radius: 5px; padding: 0px 20px;">
-    <h2>{{ index site.Data.bio.header }}</h2>
-    {{ range site.Data.bio.lines }}
-      <p>{{ . }}</p>
+    {{ if (eq .page.Params.language "it") }}
+      <h2>{{ index site.Data.it.bio.header }}</h2>
+      {{ range site.Data.it.bio.lines }}
+        <p>{{ . }}</p>
+      {{ end }}
+    {{ end }}
+    {{ if (eq .page.Params.language "en")}}
+      LELLO SHPARAAAAAAAAA!
+      <!-- <h2>{{ index site.Data.it.bio.header }}</h2>
+      {{ range site.Data.it.bio.lines }}
+        <p>{{ . }}</p>
+      {{ end }} -->
     {{ end }}
   </div>
 </div>
