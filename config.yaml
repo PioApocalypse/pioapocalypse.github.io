@@ -68,6 +68,7 @@ params:
         imageTitle: "logo" # optional
         imageWidth: 240 # custom size
         imageHeight: 240 # custom size
+        imageClass: small-svg
         buttons:
           - name: CV Comune
             url: "cv/comune"
