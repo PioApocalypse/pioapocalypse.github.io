@@ -8,20 +8,20 @@ language: it
 ---
 
 == Esperienze lavorative
-  * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
-  * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
+  * link:https://pioapocalypse.github.io/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+  * link:https://pioapocalypse.github.io/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
 === Altre esperienze
-  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (11/07/2017 - 08/08/2017). link:/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
+  * Esperienza di studio all'estero "*Estate INPSieme*" in Greenwich, Londra, della durata di quattro settimane (11/07/2017 - 08/08/2017). link:https://pioapocalypse.github.io/certifications/Estate_INPSieme_2017.jpg[Attestato di partecipazione., window=_blank]
 // Valutare possibilità di aggiungere un curriculum solo per le mie conoscenze della lingua inglese
 
 == Progetti personali
-  * Realizzazione del link:/[sito personale] che state visitando con Hugo (giugno 2023 - luglio 2023).
-  * Realizzazione prototipo nuovo sito per l'org. ICRANet con Hugo (maggio 2023 - in corso, sospeso).
+  * Realizzazione di un link:https://pioapocalypse.github.io/[sito personale] con CMS statico Hugo (giugno 2023 - luglio 2023).
+  * Realizzazione prototipo nuovo sito per l'org. internazionale "ICRANet" con CMS statico Hugo (maggio 2023 - in corso, sospeso).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 == Istruzione
-  * (Iscritto al Corso di) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 150/180 (83.3%).
+  * (Laureando in) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 156/180 (86.7%).
   * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100.
 
 === Lingue parlate
@@ -29,8 +29,8 @@ language: it
   * Inglese - livello Cambridge B2
 
 === Corsi di formazione (attestati)
-  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
-  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
+  * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:https://pioapocalypse.github.io/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
+  * "*Corso di Formazione Generale per i Lavoratori*" (luglio 2021) - cod. att. (link:https://opnitalialavoro.it/verifica-dellautenticita/[137413_5/15, title="Verifica autenticità", window=_blank]). link:https://pioapocalypse.github.io/certifications/Sicurezza_sul_Lavoro_P21WT036.pdf[Attestato di superamento., window=_blank]
 
 === Certificazioni
 ==== Lingua inglese
@@ -44,7 +44,7 @@ language: it
     ** *Software*: buone capacità con *AutoCAD*, *nanoCAD*, *Catia V5*, *Solidworks 2020*; conoscenze di base di *FreeCAD* e *Ansys*.
       *** So realizzare parti e assiemi di modelli 3D, so fare analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
 
-  * #link:/cv/informatico/#hardskill[Informatica]#
+  * #link:https://pioapocalypse.github.io/cv/informatico/#hardskill[Informatica]#
     ** *Manutenzione di rete*: conoscenza degli standard RAID, capacità di configurare e gestire routine di backup con Bareos; conoscenze di base di XenServer, Apache HTTPD e Windows Server 2003; conoscenze dei protocolli SSH, VNC, RDP; familiarità con Zabbix per monitoraggio risorse di rete.
     ** *Sistemi operativi*: utente avanzato di S.O. Windows e di varie distribuzioni Linux; dimestichezza con interfacce a riga di comando (CLI), in particolare Bash; dimestichezza con systemd ed esperienze minori con altri init daemon.
     ** *Database*: conoscenza di base dell'algebra relazionale; conoscenza del linguaggio SQL.
@@ -52,9 +52,9 @@ language: it
     ** *Web development*: buona conoscenza di HTML5, CSS3 e SCSS per front-end web development; conoscenza del CMS *Hugo*; esperienze con il CMS *Wordpress* e con una delle prime versioni (2007) del CMS *Joomla!*.
 
 // Devo caricare da qualche parte il mio PdS e poi linkarlo qui
-  * #link:/cv/ingegnere/#hardskill[Ingegneria meccanica]#
+  * #link:https://pioapocalypse.github.io/cv/ingegnere/#hardskill[Ingegneria meccanica]#
     ** Conoscenze di ingegneria meccanica, ovvero: matematica I e II, fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
-    ** Per ulteriori dettagli, consultare la pagina dedicata al link:/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+    ** Per ulteriori dettagli, consultare la pagina dedicata al link:https://pioapocalypse.github.io/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
   * #Progettazione meccanica#
     ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
@@ -63,7 +63,7 @@ language: it
     ** *Prototipazione rapida*: nozioni sul funzionamento della stampa 3D (FDM, SLA).
 
   * #Software da ufficio e documentale#
-    ** Competenza con i programmi dei *pacchetti MS Office*, *LibreOffice* e *Google Docs Editor*.
+    ** Competenza con i pacchetti software *MS Office*, *LibreOffice* e *Google Docs Editor*.
     ** *Stesura documentazione*: "parlo bene" LaTeX, Markdown e Asciidoctor - con il primo sto scrivendo la tesi di laurea, con gli altri questo sito documentale; ho familiarità con reStructuredText; naturalmente, so usare MS Word, LibreOffice Writer e Google Docs.
     ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
 
