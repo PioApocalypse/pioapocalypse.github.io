@@ -9,8 +9,8 @@ layout: single
 [#cdl]
 === Iscritto al _Corso di Laurea Triennale in Ingegneria Meccanica_ presso l'Università degli Studi di Salerno
 * Immatricolato nell'A.A. 2017/2018, attualmente iscritto al 3° anno (3° FC).
-* CFU conseguiti: 150/180 (83.3%).
-* Esami registrati: 19/23. Media ponderata: 24.664/30
+* CFU conseguiti: 156/180 (86.7%).
+* Esami registrati: 20/23. Media ponderata: 24.678/30
 * Conoscenze acquisite dal CdL (in estrema sintesi):
   ** *Matematica e fisica*: funzioni elementari, num. complessi, analisi/studio della funzione - il che include derivate, limiti e integrali definiti o indefiniti; analisi su più variabili indipendenti, eq. differenziali fino al secondo ordine, integrali doppi e tripli, derivate parziali; vettori e matrici, rango/immagine/kernel/determinante etc., operazioni elementari; fisica generale, meccanica del punto materiale, di distribuzioni discrete di punti e del corpo rigido; moto rotativo e delle grandezze studiate in tale ambito (mom. d'inerzia, coppia, mom. angolare etc.); forze d'attrito; elettromagnetismo; meccanica del corpo rigido, fondamenti di algebra vettoriale, meccanica newtoniana e dalambertiana.
   ** *Tecnologia dei materiali*: classificazione dei materiali, principali configurazioni molecolari dei mat. metallici, trattamenti termici più importanti, diagrammi di stato (incl. _diagramma Ferro-Carbonio_), prove di resistenza (rottura, durezza, resilienza) sui metalli; lavorazioni per deformazione plastica a caldo e a freddo, lavorazioni per asportazione di truciolo, saldature, fonderia.
