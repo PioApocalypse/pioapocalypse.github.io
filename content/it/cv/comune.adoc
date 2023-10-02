@@ -53,8 +53,8 @@ language: it
 
 // Devo caricare da qualche parte il mio PdS e poi linkarlo qui
   * #link:https://pioapocalypse.github.io/cv/ingegnere/#hardskill[Ingegneria meccanica]#
-    ** Conoscenze di ingegneria meccanica, ovvero: matematica I e II, fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
-    ** Per ulteriori dettagli, consultare la pagina dedicata al link:https://pioapocalypse.github.io/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
+    ** *Conoscenze di ingegneria meccanica*, ovvero: matematica I e II, fisica generale, chimica inorganica; tecnologia generale dei materiali e tecnologia meccanica, disegno tecnico industriale e grafica computazionale tecnica; meccanica razionale, scienza delle costruzioni, meccanica applicata e costruzione di macchine; termodinamica e trasmissione del calore, macchine e sistemi energetici, meccanica dei fluidi e impianti di condizionamento; economia e organizzazione aziendale, progettazione e gestione degli impianti industriali; elettrotecnica, fondamenti di informatica e sistemi di misura per l'industria 4.0.
+    ** Per ulteriori dettagli, consultare la pagina del mio sito web dedicata al link:https://pioapocalypse.github.io/cv/ingegnere#cdl[curriculum come ingegnere meccanico].
 
   * #Progettazione meccanica#
     ** *CNC*: conoscenza di base del linguaggio G-code, uso del software *CIMCO Edit*.
@@ -68,37 +68,44 @@ language: it
     ** *Video editing*: esperienze di editing con Kdenlive; competenza con OBS, conoscenza di base di Vegas (ex Sony Vegas).
 
 === Soft skill
-[cols=3]
-|===
-|Precisione:
-|
-|★★★★★
+Ritengo che i miei punti di forza siano i seguenti:
 
-|Problem solving:
-|
-|★★★★★
+  * Precisione nello svolgere un'attività esattamente come mi è detto di fare;
+  * Capacità di problem solving anche sotto pressione;
+  * Pazienza e buona capacità di interfacciarmi con colleghi e compagni di squadra;
+  * Buone capacità di pianificazione e gestione di routine giornaliere in ufficio.
 
-|Pazienza:
-|
-|★★★★☆
-
-|Pianificazione:
-|
-|★★★★☆
-
-|Rapporti interpersonali:
-|
-|★★★★☆
-
-|Lavoro di squadra:
-|
-|★★★★☆
-
-|Saper ascoltare:
-|
-|★★★☆☆
-
-|Autonomia:
-|
-|★★☆☆☆
-|===
+// [cols=3]
+// |===
+// |Precisione:
+// |
+// |★★★★★
+//
+// |Problem solving:
+// |
+// |★★★★★
+//
+// |Pazienza:
+// |
+// |★★★★☆
+//
+// |Pianificazione:
+// |
+// |★★★★☆
+//
+// |Rapporti interpersonali:
+// |
+// |★★★★☆
+//
+// |Lavoro di squadra:
+// |
+// |★★★★☆
+//
+// |Saper ascoltare:
+// |
+// |★★★☆☆
+//
+// |Autonomia:
+// |
+// |★★☆☆☆
+// |===
