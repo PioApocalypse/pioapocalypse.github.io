@@ -1,10 +1,12 @@
 ---
 title: "Che cos'è Triennalia?"
-url: "/about/triennalia"
 date: 2023-07-09T12:00:00+02:00
+language: en
 ---
 
-Triennalia è una repository contenente appunti digitali di alcune materie del Corso di Laurea Triennale di Ingegneria Meccanica, che ho seguito a partire dal 2017 presso l'Università degli Studi di Salerno. Gli appunti "testuali" sono stati scritti con tool come Word o LibreOffice, e dove possibile direttamente in LaTeX; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium usando il software Xournal++, e i sorgenti (.xopp) richiedono tale programma per potere essere modificati.
+_Translation for this page is anavailable (and pointless)._
+
+<!-- Triennalia è una repository contenente appunti digitali di alcune materie del Corso di Laurea Triennale di Ingegneria Meccanica, che ho seguito a partire dal 2017 presso l'Università degli Studi di Salerno. Gli appunti "testuali" sono stati scritti con tool come Word o LibreOffice, e dove possibile direttamente in LaTeX; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium usando il software Xournal++, e i sorgenti (.xopp) richiedono tale programma per potere essere modificati.
 
 I file originali possono essere scaricati, aperti, esportati in PDF o altri formati, stampati e - entro un certo estento - modificati; i file sono protetti e distribuiti sotto licenza [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), che permette la **condivisione**, la **ridistribuzione** e l'**adattamento** del materiale sotto le condizioni di **_Attribuzione_** (deve sempre figurare il mio nome reale o quantomeno il mio pseudonimo), **_Non commerciale_** (vietata la vendita a prezzo diverso da quello di stampa) e **_ShareAlike_** (qualsiasi opera derivata deve essere distribuita sotto Creative Commons).
 Per favore, evitate di ridistribuirli tramite cloud per pubblicizzare associazioni o eventi.
@@ -64,4 +66,4 @@ Inoltre, Xournal++ ha un bel po' di roba carina, è compatibile con molte tavole
 Per ora non attivamente (niente pull-request), ma se avete da segnalare errori o da suggerire modifiche particolari sono sempre disponibile. Il miglior contributo che possiate dare è appunto la segnalazione degli errori - *«Segnala un errore, salva un esame»*.
 Le pull-request saranno rifiutate, per favore contattatemi direttamente se avete in mente qualcosa che dovrei aggiungere o cambiare. [Lascio qui il mio link Telegram](https://t.me/pioapocalypse).
 
-Un altro contributo importante, se siete soddisfatti del lavoro dietro questa repository, è la donazione. Sono pur sempre uno studente, e un contributo anche minimo fa sempre comodo. [Dona su PayPal](https://paypal.me/PioApocalypse)
+Un altro contributo importante, se siete soddisfatti del lavoro dietro questa repository, è la donazione. Sono pur sempre uno studente, e un contributo anche minimo fa sempre comodo. [Dona su PayPal](https://paypal.me/PioApocalypse) -->
