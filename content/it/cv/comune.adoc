@@ -8,7 +8,7 @@ language: it
 ---
 
 == Esperienze lavorative
-  * link:/cv/informatico/#cnr-spin[*Manutentore di rete*, title=Dettagli] presso CNR-SPIN - sede di Napoli mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (01/07/2024 - _in corso_).
+  * link:/cv/informatico/#cnr-spin[*Manutentore di rete*, title=Dettagli] presso CNR-SPIN - sede di Napoli (01/07/2024 - _in corso_).
   * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
   * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
