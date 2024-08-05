@@ -5,6 +5,11 @@ createdDate: 2023-06-12T12:00:00+02:00
 ---
 
 == Esperienze lavorative
+[#cnr-spin]
+=== _Manutentore di rete_ presso CNR - Istituto SPIN (01/07/2024 - in corso).
+* In qualità di system manager mi occupo di gestire e mantenere l'infrastruttura informatica della sede dell'link:https://www.spin.cnr.it/[Istituto SPIN], istituto del CNR per la ricerca sui superconduttori e i materiali innovativi, presso la sede di Monte S. Angelo, Napoli.
+* L'esperienza è tutt'ora in corso.
+
 [#icranet]
 === _Manutentore di rete_ presso ICRANet Pescara per conto di Soabit s.r.l. (09/01/2023 - 30/06/2023).
 * In qualità di system manager mi sono occupato di gestire e fare manutenzione dell'infrastruttura informatica di ICRANet Pescara, centro di ricerca internazionale di astrofisica relativistica.

@@ -8,7 +8,7 @@ language: it
 ---
 
 == Esperienze lavorative
-  * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
+  * link:/cv/informatico/#cnr-spin[*Manutentore di rete*, title=Dettagli] presso CNR-SPIN - sede di Napoli mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (01/07/2024 - _in corso_).
   * link:/cv/informatico/#icranet[*Manutentore di rete*, title=Dettagli] presso ICRANet Pescara per conto di mailto:damiano.verzulli@soabit.com[Soabit s.r.l., title="Damiano Verzulli"] (09/01/2023 - 30/06/2023).
   * link:/cv/informatico/#iasait[*Webmaster*, title=Dettagli] per l'A.S.D. mailto:segreteria@iasa-italia.it[IASA Italia, title="Segreteria IASA Italia"] (_sine data_, 2016 - 2021).
 
@@ -18,16 +18,16 @@ language: it
 
 == Progetti personali
   * Realizzazione di un link:/[sito personale] con CMS statico Hugo (giugno 2023 - luglio 2023).
-  * Realizzazione prototipo nuovo sito per l'org. internazionale "ICRANet" con CMS statico Hugo (maggio 2023 - in corso, sospeso).
+  * Realizzazione prototipo nuovo sito per l'org. internazionale "ICRANet" con CMS statico Hugo (maggio 2023 - sospeso).
   * Progettazione trasmissione, assi/alberi e supporti di una ipotetica pressa meccanica a doppio eccentrico per l'esame di Costruzione di Macchine (giugno - agosto 2022).
 
 == Istruzione
-  * (Laureando in) Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - CFU conseguiti 156/180 (86.7%).
+  * Laurea Triennale in Ingegneria Meccanica presso l'Università degli Studi di Salerno - voto finale 97/110.
   * Diploma di Istruzione Superiore conseguito presso il Liceo Scientifico Margherita Hack, Baronissi SA (ex IIS Baronissi) - voto di maturità 96/100.
 
 === Lingue parlate
   * Italiano - madrelingua
-  * Inglese - livello Cambridge B2
+  * Inglese - livello Cambridge First B2
 
 === Corsi di formazione (attestati)
   * "*DIGITAL MANUFACTURING - Prototipazione 3D e CNC*" (giugno 2021 - agosto 2021) - cod. prog. Formatemp "094 PROT D211 1983". link:/certifications/Attestato_Digital_Manufacturing_Wintime_P21WT036.pdf[Attestato di frequenza., window=_blank]
@@ -46,7 +46,7 @@ language: it
       *** So realizzare parti e assiemi di modelli 3D, so fare analisi cinematiche del moto via Catia e Solidworks e ho conoscenze di base circa le analisi delle tensioni meccaniche con il F.E.M.
 
   * #link:/cv/informatico/#hardskill[Informatica]#
-    ** *Manutenzione di rete*: conoscenza degli standard RAID, capacità di configurare e gestire routine di backup con Bareos; conoscenze di base di XenServer, Apache HTTPD e Windows Server 2003; conoscenze dei protocolli SSH, VNC, RDP; familiarità con Zabbix per monitoraggio risorse di rete.
+    ** *Manutenzione di rete*: conoscenza degli standard RAID, capacità di configurare e gestire routine di backup con Bareos; conoscenze di base di Proxmox e XenServer per l'ipervisione di container e macchine virtuali, webserver Apache HTTPD e Windows Server 2003; conoscenze dei protocolli SSH, VNC, RDP; familiarità con Zabbix per monitoraggio risorse di rete.
     ** *Sistemi operativi*: utente avanzato di S.O. Windows e di varie distribuzioni Linux; dimestichezza con interfacce a riga di comando (CLI), in particolare Bash; dimestichezza con systemd ed esperienze minori con altri init daemon.
     ** *Database*: conoscenza di base dell'algebra relazionale; conoscenza del linguaggio SQL.
     ** *Linguaggi di programmazione*: esperienze di programmazione con MATLAB, Python3, LabVIEW e Bash; conoscenza di base di GNU Octave, C e Javascript.
