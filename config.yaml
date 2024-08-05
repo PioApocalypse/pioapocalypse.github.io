@@ -1,5 +1,5 @@
 # Configurazione del sito, volendo questo è una sorta di header
-baseURL: 'https://pioapocalypse.github.io/' # URL di base
+baseURL: 'https://damico.ing/' # URL di base
 languageCode: 'it' # lingua
 title: 'PioApocalypse' # titolo
 themeDir: 'themes'
