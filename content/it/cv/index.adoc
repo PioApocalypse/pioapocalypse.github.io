@@ -6,6 +6,8 @@ language: it
 url: "/cv/"
 ---
 
+
+
 == CV comune
 link:/cv/comune[Visualizza sul web] oppure link:#[scarica in PDF^].
 
