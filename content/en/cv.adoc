@@ -2,8 +2,8 @@
 title: "My Résumés"
 date: 2023-06-29T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
-url: "/en/cv/"
 language: en
+url: "/en/cv/"
 ---
 
 == Common
