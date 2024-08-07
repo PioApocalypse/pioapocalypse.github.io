@@ -82,6 +82,10 @@ mark {
   text-decoration: underline;
 }
 
+.signature {
+  text-align: right;
+}
+
 /* Aggiunto stile testo nascosto (spoiler) */
 .spoiler {
   color: var(--theme);
