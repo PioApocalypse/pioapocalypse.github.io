@@ -9,10 +9,10 @@ url: "/cv/"
 
 
 == CV comune
-link:/cv/comune[Visualizza sul web] oppure link:#[scarica in PDF^].
+link:/cv/comune/[Visualizza sul web] oppure link:/curriculum/COMM.pdf[scarica in PDF^].
 
 == CV come ing. meccanico
-link:/cv/ingegnere[Visualizza sul web] oppure link:#[scarica in PDF^].
+link:/cv/ingegnere/[Visualizza sul web] oppure link:/curriculum/MEC.pdf[scarica in PDF^].
 
 == CV come informatico
-link:/cv/informatico[Visualizza sul web] oppure link:#[scarica in PDF^].
+link:/cv/informatico/[Visualizza sul web] oppure link:/curriculum/SYS.pdf[scarica in PDF^].
