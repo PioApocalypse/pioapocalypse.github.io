@@ -2,7 +2,9 @@
 title: "CV come Ingegnere Meccanico"
 date: 2023-06-14T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
+url: "/cv/ingegnere"
 layout: single
+language: it
 ---
 
 == Istruzione

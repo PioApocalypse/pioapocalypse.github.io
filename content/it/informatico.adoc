@@ -2,6 +2,9 @@
 title: "CV come Informatico"
 date: 2023-06-23T12:00:00+02:00
 createdDate: 2023-06-12T12:00:00+02:00
+url: "/cv/informatico"
+layout: single
+language: it
 ---
 
 == Esperienze lavorative
